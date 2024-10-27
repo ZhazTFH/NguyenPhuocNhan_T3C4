@@ -69,6 +69,8 @@ Dự án này tập trung vào việc phát triển một ứng dụng Android h
 - **Quản lý thời gian:** Sự khéo léo trong việc tối ưu hóa thời gian, giúp cho mọi dự án được hoàn thành không chỉ đúng hạn mà còn vượt qua mọi kỳ vọng về chất lượng.
 - **Giải quyết vấn đề:** Khả năng phân tích và tìm ra những giải pháp độc đáo trong những tình huống phức tạp, như một nhà thám hiểm vượt qua thử thách để tìm ra ánh sáng.
 
+---
+
 ## 🌟 Mục Tiêu Nghề Nghiệp
 Mục tiêu của tôi là trở thành một lập trình viên fullstack xuất sắc, không ngừng khám phá và chinh phục những công nghệ tiên tiến nhất. Tôi khao khát tạo ra những sản phẩm mang tính đột phá, góp phần mang lại giá trị thiết thực cho cộng đồng và doanh nghiệp. Với tầm nhìn xa và lòng đam mê, tôi mong muốn không chỉ phát triển bản thân mà còn góp sức xây dựng một tương lai tươi sáng hơn trong lĩnh vực công nghệ.
 
