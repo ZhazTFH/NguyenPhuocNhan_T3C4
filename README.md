@@ -84,6 +84,6 @@ Rất sẵn lòng hợp tác với các nhà phát triển và nhà thiết kế
 ## 📬 Liên Hệ
 - 📧 **Email:** Bạn có thể gửi những câu hỏi hoặc ý tưởng của mình đến tôi qua địa chỉ email: **thepig6704@gmail.com**. Tôi luôn sẵn lòng lắng nghe!
 - 🌐 **Zalo:** Hãy kết nối với tôi trên Zalo qua số điện thoại: **0943.777.242**. Rất mong được chia sẻ và trao đổi những ý tưởng thú vị cùng bạn!
-- 👤 **Facebook:** facebook.com/profile
+- 👤 **Facebook:** [facebook.com/profile/](https://www.facebook.com/profile/)
 
 Cảm ơn bạn đã quan tâm đến dự án! Nếu có bất kỳ câu hỏi hoặc đề xuất nào, vui lòng liên hệ để trao đổi thêm. ✨
